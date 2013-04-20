@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+
+name: Siteshwar Vashisht
+url: http://siteshwar.github.com/
+description: 
+twitter: SiteshwarV
+github: siteshwar
+gravatar_url: /images/rectangle.png
