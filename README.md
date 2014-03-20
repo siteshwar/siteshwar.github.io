@@ -1,2 +1,2 @@
-siteshwar.github.com
+siteshwar.github.io
 ====================
