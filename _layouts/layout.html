@@ -4,12 +4,10 @@
   <meta charset="utf-8">
   <title>
     {% if page.title %}
-      {{ page.title }} &ndash;
+      {{ page.title }}
     {% endif %}
-    {{ site.name }}
   </title>
 
-  <meta name="author" content="{{ site.name }}" />
   <meta name="description" content="{{ site.description }}" />
 
   <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
@@ -30,10 +28,6 @@
       <img src="{{ site.gravatar_url }}?s=150" height="75" width="75" class="avatar" />
 
     <section class="name">
-      <a href="/">
-        <span id="fname">{{ site.name|split:' '|first }}</span>
-        <span id="lname">{{ site.name|split:' '|last }}</span>
-      </a>
     </section>
 
     <section class="meta">

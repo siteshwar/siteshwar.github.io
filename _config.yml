@@ -4,7 +4,6 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Siteshwar Vashisht
 url: http://siteshwar.github.com/
 description: 
 twitter: SiteshwarV
