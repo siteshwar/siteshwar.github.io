@@ -1,4 +1,3 @@
-markdown: rdiscount
 highlighter: true
 permalink: /posts/:title
 rdiscount:
