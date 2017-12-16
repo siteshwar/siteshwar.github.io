@@ -15,9 +15,13 @@ Since my [last blog post][korn-shell-not-dead] we have made some decent progress
 
 I want to say thanks to  my fellow committer [Kurtis Rader][kurtis-github] for his invaluable contributions. He has been instrumental in improving code and has agitated a few discussions in the community. There is a growing interest in the community to keep ksh93 relevant. We are up to a good start and the list of [pull requests][github-ast-pull-requests] and [issues][github-ast-issues] is slowly increasing.  It is a sign of recovery. KornShell is heading for good times!
 
+Comments on [Hacker News][hacker-news] and [reddit][reddit].
+
 [korn-shell-not-dead]: http://situ.im/posts/korn-shell-not-dead
 [meson-home]: http://mesonbuild.com/
 [ast-repository]: https://github.com/att/ast
 [kurtis-github]: https://github.com/krader1961
 [github-ast-pull-requests]: https://github.com/att/ast/pulls
 [github-ast-issues]: https://github.com/att/ast/issues
+[hacker-news]: https://news.ycombinator.com/item?id=15862844
+[reddit]: https://www.reddit.com/r/unix/comments/7hzhna/kornshell_moving_forward/
