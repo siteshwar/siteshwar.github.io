@@ -30,9 +30,13 @@ It was a big setback to ksh when David Korn and his team stopped working on it a
 
 It’s not the end, it's a new beginning!
 
+Comments on [Hacker News][hacker-news] and [reddit][reddit].
+
 [ksh-2020-release-announcement]: https://groups.google.com/d/msg/korn-shell/-tQkll8BxXU/X4ON61CHBwAJ
 [ridiculous_fish-github]: https://github.com/ridiculousfish
 [krader1961-github]: https://github.com/krader1961
 [kdudka-github]: https://github.com/kdudka
 [fish-shell-2012]: https://www.mail-archive.com/fish-users@lists.sourceforge.net/msg03044.html
 [dgk-gsf-last-day]: https://www.mail-archive.com/ast-developers@lists.research.att.com/msg01462.html
+[hacker-news]: https://news.ycombinator.com/item?id=21214334
+[reddit]: https://www.reddit.com/r/unix/comments/dfy6lp/kornshell_2020_impossible_happens/
