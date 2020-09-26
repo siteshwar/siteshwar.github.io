@@ -30,6 +30,8 @@ It was a big setback to ksh when David Korn and his team stopped working on it a
 
 It’s not the end, it's a new beginning!
 
+EDIT: I stopped working on ksh after AT&T decided to [rewind][rewind] the repository back to it's old state. I summarized my view of this project [here][my-comment].
+
 Comments on [Hacker News][hacker-news] and [reddit][reddit].
 
 [ksh-2020-release-announcement]: https://groups.google.com/d/msg/korn-shell/-tQkll8BxXU/X4ON61CHBwAJ
@@ -40,3 +42,5 @@ Comments on [Hacker News][hacker-news] and [reddit][reddit].
 [dgk-gsf-last-day]: https://www.mail-archive.com/ast-developers@lists.research.att.com/msg01462.html
 [hacker-news]: https://news.ycombinator.com/item?id=21214334
 [reddit]: https://www.reddit.com/r/unix/comments/dfy6lp/kornshell_2020_impossible_happens/
+[my-comment]: https://github.com/att/ast/issues/1464#issuecomment-581458320
+[rewind]: https://github.com/att/ast/issues/1466
