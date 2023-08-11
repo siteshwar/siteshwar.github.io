@@ -16,8 +16,11 @@ RHEL 5 was the first RHEL distribution that was scanned through it. And it has b
 
 I was responsible for open sourcing this codebase and I hope the entire open source community would benefit from it. I would like to thank [Kamil Dudka][kdudka-github], [Lukáš Zaoral][lzaoral-github] and all the OpenScanHub contributors inside Red Hat that have supported this effort. This is the beginning of building a community around OpenScanHub and you can join the effort on [GitHub][openscanhub-github].
 
+Comments on [Hacker News][hacker-news] and [reddit][reddit].
 
 [csmock-github]: https://github.com/csutils/csmock
 [kdudka-github]: https://github.com/kdudka
 [lzaoral-github]: https://github.com/lzaoral
 [openscanhub-github]: https://github.com/openscanhub/openscanhub
+[hacker-news]: https://news.ycombinator.com/item?id=37090555
+[reddit]: https://www.reddit.com/r/linux/comments/15odj7v/openscanhub_static_and_dynamic_analysis_as_a/
