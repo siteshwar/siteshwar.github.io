@@ -18,7 +18,7 @@ Packit is an open source project aiming to ease the integration of projects with
 
 The Packit team did service side integration of OpenScanHub recently. It is enabled only for rawhide, as rawhide is the closest candidate to upstreams. A differential scan is performed on each pull request against the target branch, so the developers can focus only on the findings introduced in the pull requests.
 
-Alternatively, you can use the Packit CLI tool to submit a scan. If you are already using Packit, you can use the `packit scan-in-osh` subcommand to perform a scan. This feature is documented through [Packit CLI](https://packit.dev/docs/cli/scan-in-osh) documentation.
+Alternatively, you can use the Packit CLI tool to submit a scan. If you are already using Packit CLI, you can use the `packit scan-in-osh` subcommand to perform a scan. This feature is documented through [Packit CLI](https://packit.dev/docs/cli/scan-in-osh) documentation.
 
 # Credits
 This was a coordinated effort among multiple teams inside Red Hat. I would like to thank all the people who have helped me:
