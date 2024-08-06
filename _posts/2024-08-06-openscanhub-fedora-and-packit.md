@@ -35,3 +35,5 @@ This was a coordinated effort among multiple teams inside Red Hat. I would like 
 Also, many different contributors have helped me from Red Hat and the Fedora community on different occasions. It would be impossible to name all of them. So, if you have helped me with OpenScanHub, I sincerely thank you for your help.
 
 We have been using this service successfully for more than a decade inside Red Hat and now its community’s turn!
+
+Comments on [Hacker News](https://news.ycombinator.com/item?id=41168166) and [reddit](https://www.reddit.com/r/Fedora/comments/1ela502/openscanhub_fedora_and_packit/) (r/Fedora).
